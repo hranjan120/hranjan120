@@ -1,16 +1,22 @@
-### Hi there 👋
+### 🙏 Greetings! I am Himanshu Ranjan 😊
 
-<!--
-**hranjan120/hranjan120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a Software Engineer 💻, Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.**
 
-Here are some ideas to get you started:
+- :toolbox: I have been shaping the web, professionally, for 4 years.
+  - Currently, Software Engineer at [Smartworks](https://www.smartworksoffice.com/)
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Presence on the World Wide Web
+
+- [Personal Website](NA)
+- [@YouTube](https://www.youtube.com)
+- [@email](mailto:hranjan120@gmail.com)
+- [@twitter](https://twitter.com)
+- [@LinkedIn](https://www.linkedin.com/in/himanshu-ranjan-04aa46101/)
+- [@Skyline](https://skyline.github.com/hranjan120/2022)
+
+#### Quote
+
+<blockquote> 
+  “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” <br /> – Martin Fowler
+</blockquote>
