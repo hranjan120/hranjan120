@@ -2,7 +2,7 @@
 
 **I am a Software Engineer 💻, Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.**
 
-- :toolbox: I have been shaping the web, professionally, for 4 years.
+- 🚀 I have been shaping the web, professionally, for 4 years.
   - Currently, Software Engineer at [Smartworks](https://www.smartworksoffice.com/)
  
 
