@@ -12,10 +12,6 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github />
 </a>
 
-<a href="https://instagram.com/_himanshu.ranjan" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F" alt=instagram />
-</a>
-
 <a href="https://www.linkedin.com/in/himanshu-ranjan-04aa46101/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
 </a>
@@ -25,7 +21,7 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 </a>
 
 <a href="https://skyline.github.com/hranjan120/2022" target="_blank">
-<img src="https://img.shields.io/badge/Skyline-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=Skyline />
+<img src="https://img.shields.io/badge/Skyline-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=E4405F" alt=Skyline />
 </a>
 
 ### My Skills
