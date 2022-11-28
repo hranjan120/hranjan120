@@ -25,7 +25,7 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 </a>
 
 <a href="https://skyline.github.com/hranjan120/2022" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=Skyline />
+<img src="https://img.shields.io/badge/Skyline-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=Skyline />
 </a>
 
 ### My Skills
