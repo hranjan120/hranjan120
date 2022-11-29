@@ -43,7 +43,7 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 #### Frontend
 
 <p align="left">
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/nuxtjs/vuejs-icon.svg" width="36" height="36" alt="VUE JS" /></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="36" height="36" alt="VUE JS" /></a>
   <a href="#"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="36" height="36" alt="Nuxt JS" /></a>
 <a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="HTML5" /></a>
