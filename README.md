@@ -8,19 +8,12 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 - ✉️ You can contact me at [hranjan120@gmail.com](mailto:hranjan120@gmail.com)
 - ☕ I'm currently working at [Smartworks](https://www.smartworksoffice.com/)
 
-<a href="https://github.com/hranjan120" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-
-<a href="https://www.linkedin.com/in/himanshu-ranjan-04aa46101/" target="_blank">
+<a href="https://github.com/hranjan120" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a><a href="https://www.linkedin.com/in/himanshu-ranjan-04aa46101/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-
-<a href="https://stackoverflow.com/users/20624490" target="_blank">
+</a><a href="https://stackoverflow.com/users/20624490" target="_blank">
 <img src="https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" alt="stackoverflow" />
-</a>
-
-<a href="https://skyline.github.com/hranjan120/2022" target="_blank">
+</a><a href="https://skyline.github.com/hranjan120/2022" target="_blank">
 <img src="https://img.shields.io/badge/Skyline-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=E4405F" alt="Skyline" />
 </a>
 
