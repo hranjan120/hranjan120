@@ -35,7 +35,7 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 #### Frontend
 
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/solidjs-icon.svg" width="50" height="50" alt="Solid JS" /></a>
+  <a href="#"><img src="https://upload.vectorlogo.zone/logos/nextjs/images/271afdac-aad3-4712-89fd-a25f63fd6dd4.svg" width="50" height="50" alt="Next JS" /></a>
 <a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" /></a>
