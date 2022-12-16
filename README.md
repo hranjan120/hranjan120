@@ -35,7 +35,7 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 #### Frontend
 
 <p align="left">
-  <a href="#"><img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/0432c913-c466-4470-b0e4-d480ed887160.svg" height="50" alt="Svelte Kit" /></a>
+  <a href="#"><img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" height="50" alt="Svelte Kit" /></a>
 <a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" /></a>
 <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" /></a>
