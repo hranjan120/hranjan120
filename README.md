@@ -94,7 +94,7 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express" />
 </a>
 <a href="#">
-<img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-ar21.svg" width="50" height="50" alt="Scylladb" />
+<img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-icon.svg" width="50" height="50" alt="Scylladb" />
 </a>
 <a href="#">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" />
