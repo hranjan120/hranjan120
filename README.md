@@ -59,7 +59,7 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 
 <p align="left">
 <a href="#">
-<img src="https://upload.vectorlogo.zone/logos/sveltetechnology/images/fc06c9b6-d01c-4e1f-82be-557ad5f65d6e.svg" height="50" alt="Svelte Kit" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50" alt="React Js" />
 </a>
 <a href="#">
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular" />
