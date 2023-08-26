@@ -94,6 +94,9 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express" />
 </a>
 <a href="#">
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="50" height="50" alt="Nest Js" />
+</a>
+<a href="#">
 <img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-icon.svg" width="50" height="50" alt="Scylladb" />
 </a>
 <a href="#">
