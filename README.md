@@ -1,5 +1,4 @@
-# 🙏 Namaste! I am Himanshu Ranjan 😊
-
+<h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNxZmc4aXBxbTRvMGwzb3lyeHd2YWx2ZWx2YTRkMHc4aDdvaXRtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/WqR7WfQVrpXNcmrm81/giphy.gif" width="30"><b>Namaste! I am Himanshu Ranjan 😊</b></h1>
 ### Software Developer
 
 Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
