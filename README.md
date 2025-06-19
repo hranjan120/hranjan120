@@ -1,4 +1,4 @@
-<h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNxZmc4aXBxbTRvMGwzb3lyeHd2YWx2ZWx2YTRkMHc4aDdvaXRtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/WqR7WfQVrpXNcmrm81/giphy.gif" width="30"><b>Namaste! I am Himanshu Ranjan 😊</b></h1>
+<h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNxZmc4aXBxbTRvMGwzb3lyeHd2YWx2ZWx2YTRkMHc4aDdvaXRtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/WqR7WfQVrpXNcmrm81/giphy.gif" width="30"><b> Namaste! I am Himanshu Ranjan 😊</b></h1>
 ### Software Developer
 
 Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
@@ -126,9 +126,21 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 
 ### My GitHub Stats
 
-<p align="left">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hranjan120&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" /></a><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hranjan120&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hranjan120&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="HIMANSHU RANJAN" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hranjan120&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="HIMANSHU RANJAN" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=hranjan120&theme=nightowl&hide_border=false&langs_count=10" alt="HIMANSHU RANJAN"/>
+</td>
+</tr>
+</table>
 </p>
+<br>
 
 #### Quote
 
