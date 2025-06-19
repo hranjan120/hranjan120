@@ -21,9 +21,8 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 </a>
 
 ### My Skills
-
 #### Core
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
@@ -35,76 +34,37 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
 </div>
 
+---
 
 #### Frontend
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React Js" />
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50" alt="Sass" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" alt="Bootstrap" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="50" height="50" alt="Webpack" />
+</div>
 
-<p align="left">
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50" alt="React Js" />
-</a>
-<a href="#">
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50" height="50" alt="Sass" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" alt="Bootstrap" />
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind CSS" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="50" height="50" alt="Webpack" />
-</a>
-</p>
+---
 
 #### Backend & Database
-
-<p align="left">
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="NodeJS" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express" />
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="50" height="50" alt="Nest Js" />
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-icon.svg" width="50" height="50" alt="Scylladb" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB" />
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50" alt="Redis" />
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50" alt="Grafana" />
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="50" height="50" alt="Graphql" />
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50" height="50" alt="Jest" />
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="50" height="50" alt="Rabbitmq" />
-</a>
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="NodeJS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express" />
+  <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="50" height="50" alt="Nest Js" />
+  <img src="https://www.vectorlogo.zone/logos/scylladb/scylladb-icon.svg" width="50" height="50" alt="Scylladb" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50" alt="Redis" />
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="50" height="50" alt="Grafana" />
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="50" height="50" alt="Graphql" />
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50" height="50" alt="Jest" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="50" height="50" alt="Rabbitmq" />
+</div>
 <br>
 
 ### My GitHub Stats
