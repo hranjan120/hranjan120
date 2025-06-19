@@ -83,11 +83,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hranjan120&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hranjan120&theme=nightowl&hide_border=false" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=hranjan120&theme=nightowl&hide_border=false&langs_count=10" alt="Top Languages" />
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hranjan120&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hranjan120&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=hranjan120&theme=nightowl&hide_border=false&langs_count=10" alt="Top Languages" />
+</td>
+</tr>
+</table>
 </p>
 
 ---
