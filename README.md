@@ -34,8 +34,10 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50" alt="Nginx" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
 </div>
-<br>
+
+
 #### Frontend
+
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React Js" />
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular" />
@@ -46,8 +48,10 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" width="50" height="50" alt="Webpack" />
 </div>
-<br>
+
+
 #### Backend & Database
+
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="NodeJS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express" />
@@ -62,7 +66,6 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50" height="50" alt="Jest" />
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="50" height="50" alt="Rabbitmq" />
 </div>
-<br>
 
 ### My GitHub Stats
 <p align="center">
