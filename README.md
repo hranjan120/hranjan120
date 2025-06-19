@@ -16,19 +16,12 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/hranjan120" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/himanshu-ranjan-04aa46101/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://stackoverflow.com/users/20624490" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://skyline.github.com/hranjan120/2023" target="_blank">
-    <img src="https://img.shields.io/badge/Skyline-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://github.com/hranjan120" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/himanshu-ranjan-04aa46101/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/20624490" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-%23F48024.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://skyline.github.com/hranjan120/2023" target="_blank"><img src="https://img.shields.io/badge/Skyline-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
 
 
 ---
