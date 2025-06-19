@@ -69,6 +69,7 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" />
 </p>
 
