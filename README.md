@@ -25,33 +25,26 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 #### Core
 
 <p align="left">
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-</a>
-<a href="#">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /> &nbsp;
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />&nbsp;
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker" />
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" />
-</a>
-<a href="#">
+&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50" alt="AWS" />&nbsp;
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker" />&nbsp;
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" />&nbsp;
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50" alt="Nginx" />
-</a>
-<a href="#">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />
-</a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="50" height="50" alt="Nginx" />&nbsp;
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman" />&nbsp;
+
 </p>
 
 #### Frontend
@@ -123,10 +116,10 @@ Open Source Enthusiast, Tech Explorer 🚩 and a human ☃.
 <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="50" height="50" alt="Rabbitmq" />
 </a>
 </p>
+<br>
 
 ### My GitHub Stats
 
-<br>
 <p align="center">
 <table align="center">
 <tr>
