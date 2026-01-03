@@ -31,8 +31,8 @@
 ### 🧠 Core
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg" width="40" />&nbsp;&nbsp;
