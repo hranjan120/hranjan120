@@ -3,13 +3,22 @@
   <b> Namaste! I am Himanshu Ranjan 😊</b>
 </h1>
 
-<h3 align="center">Software Developer | Open Source Enthusiast | Tech Explorer 🚩 | Human ☃️</h3>
+<h3 align="center">
+  Software Developer • AI/ML Engineer • Open Source Enthusiast • Tech Explorer 🚩
+</h3>
+
+<p align="center">
+  Building scalable systems, intelligent products, and learning every day ☃️
+</p>
 
 ---
 
-- 🌍 Based in **Noida, India**  
-- ✉️ Contact: [hranjan120@gmail.com](mailto:hranjan120@gmail.com)  
-- ☕ Currently at: [Smartworks](https://www.smartworksoffice.com/)
+## 🌍 About Me
+
+- 📍 **Noida, India**
+- 💼 **Software Developer @ Smartworks**
+- 🧠 Focused on **AI/ML, Backend Systems, LLMs & Cloud**
+- ✉️ **Email:** [hranjan120@gmail.com](mailto:hranjan120@gmail.com)
 
 ---
 
@@ -43,7 +52,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
 </p>
 
-### 🧠🧬 AI/ML
+### 🧠🧬 AI / Machine Learning
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" height="40" />&nbsp;&nbsp;
@@ -57,7 +66,7 @@
   <img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-ar21.svg" height="40" />&nbsp;&nbsp;
 </p>
 
-### 🧩 Backend & Database
+### 🧩 Backend • Data • Infrastructure
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi.svg" height="35" />&nbsp;&nbsp;
