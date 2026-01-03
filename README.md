@@ -60,9 +60,9 @@
 ### 🧩 Backend & Database
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi.svg" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/fastapi.svg" height="35" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/qdrant.svg" height="38" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-airflow.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/apache-airflow.svg" width="38" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" width="40" />&nbsp;&nbsp;
