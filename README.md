@@ -31,15 +31,6 @@
 ### 🧠 Core
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/l/langchain-1.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/ollama.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face.svg" height="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-ar21.svg" height="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />&nbsp;&nbsp;
@@ -52,17 +43,18 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
 </p>
 
-### 💻 Frontend
+### 🧠🧬 AI/ML
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/l/langchain-1.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/ollama.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face.svg" height="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-ar21.svg" height="40" />&nbsp;&nbsp;
 </p>
 
 ### 🧩 Backend & Database
