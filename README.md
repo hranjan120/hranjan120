@@ -83,7 +83,7 @@
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hranjan120&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hranjan120&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hranjan120&theme=nightowl&hide_border=false" alt="GitHub Streak" />
 </td>
 <td width="50%" align="center">
