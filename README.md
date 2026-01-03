@@ -31,6 +31,15 @@
 ### 🧠 Core
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/l/langchain-1.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/ollama.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/hugging-face.svg" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/wandbai/wandbai-ar21.svg" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />&nbsp;&nbsp;
